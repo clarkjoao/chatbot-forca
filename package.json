@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "common-tags": "^1.8.0",
-        "jsdom": "^16.2.2",
+        "jsdom": "^16.5.0",
         "request": "^2.88.2",
         "sulla": "^2.3.5"
     }
